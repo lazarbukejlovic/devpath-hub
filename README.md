@@ -96,7 +96,7 @@ https://github.com/lazarbukejlovic/devpath-hub
 
 ## Live Demo
 
-Production deployment coming soon.
+Live Demo: https://devpath-hub.vercel.app
 ## Author
 
 Lazar Bukejlovic  
