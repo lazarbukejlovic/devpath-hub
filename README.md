@@ -91,19 +91,17 @@ http://localhost:8080
 
 ## Repository
 
-GitHub Repository:  
-https://github.com/lazarbukejlovic/devpath-hub
+## [GitHub Repository](https://github.com/lazarbukejlovic/devpath-hub)
 
 ## Live Demo
 
-Live Demo: https://devpath-hub.vercel.app
+## [Live](https://devpath-hub.vercel.app)
 ## Author
 
 Lazar Bukejlovic  
 Full-Stack Engineer
 
-GitHub:  
-https://github.com/lazarbukejlovic
+## [GitHub](https://github.com/lazarbukejlovic)
 
-LinkedIn:  
-https://linkedin.com/in/lazar-bukejlovic
+## [LinkedIn](https://linkedin.com/in/lazar-bukejlovic)
+
