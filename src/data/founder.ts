@@ -7,7 +7,7 @@ export const FOUNDER = {
   github: "https://github.com/lazarbukejlovic",
   linkedin: "https://linkedin.com/in/lazar-bukejlovic",
   email: "lazarbukejlovic@icloud.com",
-  website: "https://lazar-personalwebsite.lovable.app/",
+  website: "https://personal-website-tau-sandy.vercel.app/",
   stack: ["React", "TypeScript", "Node.js", "Postgres", "REST/GraphQL", "Auth", "Dashboards", "Tailwind"],
 };
 
